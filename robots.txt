@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://bunfloxz.github.io/2025-ALL-WE-KNOW/sitemap.xml
