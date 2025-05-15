@@ -7,7 +7,7 @@
 <body>
   <h1>My 50 URLs</h1>
   <ul>
-    <li><a href="https://www.workforceforall.com/getmedia/1313f432-3cd7-4de3-82ad-a4faf972428c/sgTNthX3">https://www.workforceforall.com/getmedia/1313f432-3cd7-4de3-82ad-a4faf972428c/sgTNthX3</a></li>
+    <li><a href="//www.workforceforall.com/getmedia/1313f432-3cd7-4de3-82ad-a4faf972428c/sgTNthX3">https://www.workforceforall.com/getmedia/1313f432-3cd7-4de3-82ad-a4faf972428c/sgTNthX3</a></li>
     <li><a href="https://www.workforceforall.com/getmedia/2b2e3541-0345-43f2-b452-4fcd5639ca34/B0fJxpUa">https://www.workforceforall.com/getmedia/2b2e3541-0345-43f2-b452-4fcd5639ca34/B0fJxpUa</a></li>
     <li><a href="https://www.workforceforall.com/getmedia/8a2642a0-8eca-49e6-b541-4fdec4d4e2a1/asPxc8lD">https://www.workforceforall.com/getmedia/8a2642a0-8eca-49e6-b541-4fdec4d4e2a1/asPxc8lD</a></li>
     <li><a href="https://www.workforceforall.com/getmedia/a1d2fe9b-ac4c-4129-a751-a44a8caf3762/YdLFsQ5c">https://www.workforceforall.com/getmedia/a1d2fe9b-ac4c-4129-a751-a44a8caf3762/YdLFsQ5c</a></li>
